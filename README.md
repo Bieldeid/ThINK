@@ -23,3 +23,7 @@ O sistema auxilia e otimiza o tempo do cliente interessado em fazer uma ou mais 
 - [Giovanna Silva](https://github.com/giovannapfs)
 - [Karoline Silva](https://github.com/koralinee)
 - [Priscila Ribeiro](https://github.com/PriscilaDias2003)
+
+## Repositório do projeto:
+[Think](https://github.com/ThINK-Tattoo)
+
